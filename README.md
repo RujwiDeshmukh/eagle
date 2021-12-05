@@ -10,7 +10,9 @@
 
 ## Setup
 `cd server`
+
 `yarn`
+
 `yarn start`
 ## Contributing
 `Contributions are welcome 🎉🎉`
